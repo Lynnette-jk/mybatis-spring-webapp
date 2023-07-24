@@ -1,0 +1,4 @@
+com\july\webapp\service\ProductService.class
+com\july\webapp\model\Product.class
+com\july\webapp\controller\ProductController.class
+com\july\webapp\config\MyBatisConfig.class
